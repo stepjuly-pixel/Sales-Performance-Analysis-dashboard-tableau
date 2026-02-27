@@ -163,7 +163,7 @@ The dashboard includes:
 - KPI & performance analytics
 
 ## Repository Structure
-
+```
 sales-performance-analysis-dashboard-tableau/
 
 README.md
@@ -179,3 +179,4 @@ dashboard/
 
 screenshots/
   dashboard_preview.png
+```
