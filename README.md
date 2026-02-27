@@ -164,7 +164,7 @@ The dashboard includes:
 
 ## Repository Structure
 
-sales-performance-dashboard/
+sales-performance-analysis-dashboard-tableau/
 
 README.md
 
