@@ -29,28 +29,28 @@ The analysis is based on a relational database containing:
 
 ### Core Tables:
 
-- order
+- `order`
 
-- session
+- `session`
 
-- product
+- `product`
 
-- session_params
+- `session_params`
 
 The data model connects transactional orders with session-level behavioral and geographic information.
 
 ### Data Granularity:
 Aggregated at:
 
-- date
+- `date`
 
-- country
+- `country`
 
-- device
+- `device`
 
-- category
+- `category
 
-- product
+- `product`
 
 ## Database Schema
 
